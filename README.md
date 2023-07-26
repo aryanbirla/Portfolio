@@ -1,2 +1,2 @@
 # Portfolio
-https://harshitg2801.github.io/Portfolio/
+https://aryanbirla.github.io/Portfolio/
